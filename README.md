@@ -31,7 +31,7 @@ A base de dados [dataset_SIN492.parquet](https://drive.google.com/file/d/1haNcYa
 
 ### Arquivos necessários
 - Na pasta "data" temos o arquivo dataset_SIN492.parquet. É o dataset que deve ser utilizado para a execução do código.
-- pattern_recognition.ipynb é o código fonte, jupyter notebook, que deve ser executado. Pode ser executado utilizando o Google Colab.
+- pattern_recognition_new.ipynb é o código fonte, jupyter notebook, que deve ser executado. Pode ser executado utilizando o Google Colab.
 
 ### Execução do arquivo no Google Colab
 **Acessar o Google Colab:** [Vá para o Google Colab](https://colab.research.google.com/)

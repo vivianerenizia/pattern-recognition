@@ -38,12 +38,12 @@ A base de dados [dataset_SIN492.parquet](https://drive.google.com/file/d/1haNcYa
 
 **Fazer Upload do Notebook:**
 
-- Você pode fazer upload do seu notebook (pattern_recognition.ipynb) diretamente no Colab.
-- Alternativamente, se o seu notebook estiver armazenado no Google Drive, você pode abri-lo diretamente no Colab.
+- Você pode fazer upload do notebook (pattern_recognition.ipynb) diretamente no Colab.
+- Alternativamente, se o notebook estiver armazenado no Google Drive, você pode abri-lo diretamente no Colab.
 
 **Instalar Dependências:**
 
-- Se houverem bibliotecas específicas que não estão pré-instaladas no Colab, você pode instalá-las usando comandos !pip install nome_da_biblioteca no início do seu notebook.
+- Se houverem bibliotecas específicas que não estão pré-instaladas no Colab, você pode instalá-las usando comandos `!pip install nome_da_biblioteca` no início do notebook.
 Certifique-se de que todas as dependências necessárias, como pandas, numpy, matplotlib, seaborn, scikit-learn e imbalanced-learn, estejam instaladas.
 
 **Executar as Células:**

@@ -33,7 +33,22 @@ A base de dados [dataset_SIN492.parquet](https://drive.google.com/file/d/1haNcYa
 - Na pasta "data" temos o arquivo dataset_SIN492.parquet. É o dataset que deve ser utilizado para a execução do código.
 - pattern_recognition.ipynb é o código fonte, jupyter notebook, que deve ser executado. Pode ser executado utilizando o Google Colab.
 
-### Execução do arquivo
+### Execução do arquivo no Google Colab
+**Acessar o Google Colab:** [Vá para o Google Colab](https://colab.research.google.com/)
+
+**Fazer Upload do Notebook:**
+
+- Você pode fazer upload do seu notebook (pattern_recognition.ipynb) diretamente no Colab.
+- Alternativamente, se o seu notebook estiver armazenado no Google Drive, você pode abri-lo diretamente no Colab.
+
+**Instalar Dependências:**
+
+- Se houverem bibliotecas específicas que não estão pré-instaladas no Colab, você pode instalá-las usando comandos !pip install nome_da_biblioteca no início do seu notebook.
+Certifique-se de que todas as dependências necessárias, como pandas, numpy, matplotlib, seaborn, scikit-learn e imbalanced-learn, estejam instaladas.
+
+**Executar as Células:**
+- Você pode executar as células do notebook sequencialmente.
+- O Colab fornece um ambiente interativo, assim como o Jupyter Notebook local.
 
 ---
 
